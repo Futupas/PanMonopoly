@@ -1,0 +1,9 @@
+D:\PanMonopoly\PanMonopoly\PanMonopoly\bin\Debug\PanMonopoly.exe.config
+D:\PanMonopoly\PanMonopoly\PanMonopoly\bin\Debug\PanMonopoly.exe
+D:\PanMonopoly\PanMonopoly\PanMonopoly\bin\Debug\PanMonopoly.pdb
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.csprojResolveAssemblyReference.cache
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.Form1.resources
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.Properties.Resources.resources
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.csproj.GenerateResource.Cache
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.exe
+D:\PanMonopoly\PanMonopoly\PanMonopoly\obj\Debug\PanMonopoly.pdb
